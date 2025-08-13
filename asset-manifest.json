@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ClinikAPP/static/css/main.f34b4e48.css",
+    "main.js": "/ClinikAPP/static/js/main.69254ab6.js",
+    "index.html": "/ClinikAPP/index.html",
+    "main.f34b4e48.css.map": "/ClinikAPP/static/css/main.f34b4e48.css.map",
+    "main.69254ab6.js.map": "/ClinikAPP/static/js/main.69254ab6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f34b4e48.css",
+    "static/js/main.69254ab6.js"
+  ]
+}
